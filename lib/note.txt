@@ -1,0 +1,11 @@
+copy: 
+UnityEngine.CoreModule.dll
+UnityEngine.dll
+UnityEngine.UI.dll
+Assembly-CSharp.dll
+Assembly-CSharp-firstpass.dll
+RDTools.dll
+DOTween.dll
+Unity.TextMeshPro.dll
+com.rlabrecque.steamworks.net.dll
+from Rhythm Doctor_Data\Managed

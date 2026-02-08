@@ -1,0 +1,6 @@
+bin/*
+out/*
+obj/*
+.vscode/*
+
+lib/*.dll
